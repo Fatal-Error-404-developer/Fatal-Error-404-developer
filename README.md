@@ -20,7 +20,7 @@ Skills: С# / Python / Html
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatal-Error-404-developer&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Fatal-Error-404-developer/contributions?format=svg&private=false)  
+<size=10>![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Fatal-Error-404-developer/contributions?format=svg&private=false)</size>  
 
 ![GitHub metrics](https://metrics.lecoq.io/Fatal-Error-404-developer)  
 
