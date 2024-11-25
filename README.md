@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, Я Александр мне 14
+#### Мои проекты больше предназначены для вайбового и развлекательного характера
+![Мои проекты больше предназначены для вайбового и развлекательного характера](https://img.freepik.com/free-photo/cute-kitten-staring-out-window-playful-curiosity-generative-ai_188544-12520.jpg)
 
-<!--
-**Fatal-Error-404-developer/Fatal-Error-404-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий кодер ну или писатьль плагинов для игры SCP:SL я только начинаю свой путь в данной сфере.
 
-Here are some ideas to get you started:
+Skills: C# - 2%, Python - 10%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Изучаю свои навыки с API EXILED и C# 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatal-Error-404-developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/E7ZRK9Ny57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/digni12)  
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fatal-Error-404-developer&theme=monokai
+
