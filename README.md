@@ -11,5 +11,5 @@ Skills: C# - 2%, Python - 10%
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatal-Error-404-developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/E7ZRK9Ny57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/digni12)  
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Fatal-Error-404-developer}&theme={monokai}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fatal-Error-404-developer&theme=monokai
 
