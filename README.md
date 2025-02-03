@@ -7,7 +7,6 @@
 Skills: С# / Python / Html
 
 - 🔭 I’m currently working on Над плагином TeslaGate 
-- ⚡ Fun fact: Я + являюсь СИСАдминистратором панели Pterodactyl 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatal-Error-404-developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='blender' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/json.svg' alt='json' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nuget.svg' alt='nuget' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg' alt='ubuntu' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/digni12)  
