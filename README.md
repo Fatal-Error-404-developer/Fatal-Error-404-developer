@@ -1,12 +1,12 @@
-### Hi there 👋, Я Александр мне 15
+###  Я Александр мне 15
 #### Мои проекты больше предназначены для вайбового и развлекательного характера
 ![Мои проекты больше предназначены для вайбового и развлекательного характера](https://img.freepik.com/free-photo/cute-kitten-staring-out-window-playful-curiosity-generative-ai_188544-12520.jpg))
 
 Я начинающий кодер ну или писатель плагинов для игры SCP:SL я только начинаю свой путь в данной сфере.
 
-Skills: С# / Python / Html
+Знания: С# / java 50%
 
-- 🔭 I’m currently working on Над плагином TeslaGate 
+- 🔭 работаю над античитом
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fatal-Error-404-developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='blender' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/json.svg' alt='json' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nuget.svg' alt='nuget' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg' alt='nginx' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg' alt='ubuntu' height='40'>]( )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/digni12)  
